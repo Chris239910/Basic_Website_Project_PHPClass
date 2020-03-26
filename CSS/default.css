@@ -1,0 +1,108 @@
+/*
+//Revision history
+//
+//DEVELOPER          DATE            COMMENTS
+//ANHTHIEN(1831187)  2020-02-28      Created default.css stylesheet
+*/
+.logo
+{
+    width: 100px;
+    height: 100px;
+   
+}
+img
+{
+    width: 50px;
+    height: 50px;
+   
+}
+.container
+{
+    border-bottom: 1px solid black;
+}
+.compayName{
+    size: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.container
+{
+    align-content: space-between;
+}
+.Type1
+{
+    background-color: azure;
+    
+}
+.Type2{
+    background-color: none;
+}
+
+.error
+{
+    color: red;
+    
+}
+
+
+#nav-bar{
+	background-color: #a3c2c2;
+	color:  #476b6b;
+	text-align: center;
+}
+#nav-bar ul{
+	padding: 5px;
+	list-style: none;
+	margin: 0;
+}
+#nav-bar li{
+	display: inline;
+}
+#nav-bar a{
+	color: #476b6b;
+	text-decoration: none;
+	font-size: 22px;
+	padding-right: 30px;
+	font-family: sans-rerif;
+}
+
+#nav-bar ul li i{
+	width: 30px;
+	height: 30px;	
+}
+#introduction{
+    color:darkolivegreen;
+    font-size: 24px;
+    text-align: center;
+    
+}
+.AdvertisingImg{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+}
+.AdvertisingHeineken{
+    width: 300px;
+    height: 200px;
+    border: solid red 5px;
+}
+th, td, tr{
+    border: solid black 1px;
+}
+.purchases th{
+    background-color:darkcyan;
+}
+
+.red{
+    color:red;
+}
+.orange{
+    color:coral;
+}
+.green{
+    color:forestgreen;
+}
+
+

@@ -1,0 +1,1016 @@
+An error occured at YY MM DDError code: 8<
+>Error Message: Undefined variable: fileHandle<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 342<
+>An exception occured at YY MM DDException code: 0<
+>Exception Message: Too few arguments to function manageError(), 5 passed and exactly 6 expected<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 373<
+>An exception occured at YY MM DDException code: 0<
+>Exception Message: Too few arguments to function manageError(), 5 passed and exactly 6 expected<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 373<
+>An exception occured at YY MM DDException code: 0<
+>Exception Message: Too few arguments to function manageError(), 5 passed and exactly 6 expected<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 373<
+>An exception occured at YY MM DDException code: 0<
+>Exception Message: Too few arguments to function manageError(), 5 passed and exactly 6 expected<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 373<
+>An exception occured at YY MM DDException code: 0<
+>Exception Message: Too few arguments to function manageError(), 5 passed and exactly 6 expected<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 373<
+>An error occured at: Wed Mar 11 17:48:26 CET 2020<
+>Error code: 8<
+>Error Message: Undefined variable: fileHandle<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 342<
+>Context: Array<
+>An error occured at: Wed Mar 11 17:49:18 CET 2020<
+>Error code: 8<
+>Error Message: Undefined variable: fileHandle<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 342<
+>An error occured at: Wed Mar 11 17:49:19 CET 2020<
+>Error code: 8<
+>Error Message: Undefined variable: fileHandle<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 342<
+>An error occured at: Wed Mar 11 17:49:19 CET 2020<
+>Error code: 8<
+>Error Message: Undefined variable: fileHandle<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 342<
+>An error occured at: Wed Mar 11 18:16:25 CET 2020<
+>Error code: 8<
+>Error Message: Uninitialized string offset: 5<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 361<
+>An error occured at: Wed Mar 11 19:39:53 CET 2020<
+>Error code: 8<
+>Error Message: Undefined variable: item<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 367<
+>An error occured at: Wed Mar 11 19:39:54 CET 2020<
+>Error code: 8<
+>Error Message: Undefined variable: item<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 367<
+>An error occured at: Wed Mar 11 19:40:22 CET 2020<
+>Error code: 2<
+>Error Message: Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 367<
+>An error occured at: Wed Mar 11 19:40:22 CET 2020<
+>Error code: 2<
+>Error Message: Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 367<
+>An error occured at: Wed Mar 11 19:40:22 CET 2020<
+>Error code: 2<
+>Error Message: Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 367<
+>An error occured at: Wed Mar 11 19:40:23 CET 2020<
+>Error code: 2<
+>Error Message: Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 367<
+>An error occured at: Wed Mar 11 19:44:02 CET 2020<
+>Error code: 2<
+>Error Message: Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 368<
+>An error occured at: Wed Mar 11 22:22:15 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:05 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:05 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:05 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:07 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:08 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:49 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:49 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:49 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:49 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:49 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:23:49 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:24:01 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:24:18 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:29:55 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 22:38:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 388<
+>An error occured at: Wed Mar 11 22:40:03 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:38 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:41 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:41 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:41 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:41 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:41 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:42 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:42 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:42 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:42 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:43 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:42:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:43:21 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:43:24 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:43:31 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:45:34 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:45:34 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:45:34 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:45:35 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:45:35 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:45:35 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:45:38 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 22:46:11 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 384<
+>An error occured at: Wed Mar 11 22:46:12 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 384<
+>An error occured at: Wed Mar 11 22:46:12 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 384<
+>An error occured at: Wed Mar 11 22:46:12 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 384<
+>An error occured at: Wed Mar 11 22:46:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 384<
+>An error occured at: Wed Mar 11 22:47:05 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:47:05 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:47:05 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:47:05 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:47:06 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:47:06 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:47:08 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:47:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 378<
+>An error occured at: Wed Mar 11 22:47:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 378<
+>An error occured at: Wed Mar 11 22:47:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 378<
+>An error occured at: Wed Mar 11 22:53:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 378<
+>An error occured at: Wed Mar 11 22:53:41 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 378<
+>An error occured at: Wed Mar 11 22:53:51 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 378<
+>An error occured at: Wed Mar 11 22:54:07 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 371<
+>An error occured at: Wed Mar 11 22:55:17 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 371<
+>An error occured at: Wed Mar 11 22:55:33 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:14 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:14 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:14 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:15 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:15 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:46 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:57:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:58:00 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:58:00 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:58:00 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:58:01 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:58:07 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 379<
+>An error occured at: Wed Mar 11 22:59:12 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:14 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:44 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:45 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:45 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:45 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:46 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:46 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:46 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 22:59:50 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:00:46 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:00:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:00:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:00:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:00:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:00:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:00:48 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 372<
+>An error occured at: Wed Mar 11 23:01:38 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 23:01:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 23:01:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 23:01:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 23:01:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 23:01:40 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 23:01:44 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 386<
+>An error occured at: Wed Mar 11 23:02:12 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 383<
+>An error occured at: Wed Mar 11 23:02:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 383<
+>An error occured at: Wed Mar 11 23:02:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 383<
+>An error occured at: Wed Mar 11 23:02:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 383<
+>An error occured at: Wed Mar 11 23:02:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 383<
+>An error occured at: Wed Mar 11 23:02:14 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 383<
+>An error occured at: Wed Mar 11 23:02:18 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 383<
+>An error occured at: Wed Mar 11 23:02:39 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:03:10 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:03:10 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:03:10 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:03:10 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:03:11 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:03:13 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:03:14 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 382<
+>An error occured at: Wed Mar 11 23:04:03 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:04:07 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:04:24 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:04:24 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:04:25 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:04:25 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:05:44 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:05:46 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:06:43 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:08:47 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:09:24 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:09:25 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:09:25 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:09:25 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:09:25 CET 2020<
+>Error code: 8<
+>Error Message: Trying to access array offset on value of type null<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 374<
+>An error occured at: Wed Mar 11 23:16:51 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:16:52 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:16:52 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:16:52 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:16:52 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:16:53 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:16:53 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:16:53 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:17:32 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:17:32 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:17:33 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:17:33 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:17:33 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:18:38 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:19:07 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:19:38 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:19:39 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:19:40 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:19:40 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 364<
+>An error occured at: Wed Mar 11 23:22:27 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:22:28 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:22:28 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:22:28 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:22:28 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:22:28 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:22:29 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:22:29 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:23:26 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:23:26 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:23:26 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:23:27 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>An error occured at: Wed Mar 11 23:23:27 CET 2020<
+>Error code: 2<
+>Error Message: Invalid argument supplied for foreach()<
+>Filename: C:\xampp\htdocs\PHP_PROJECT_ASSIGNMENT\PHP common functions\commonFunctions.php<
+>Line: 363<
+>
